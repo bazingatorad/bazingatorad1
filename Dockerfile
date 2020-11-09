@@ -1,7 +1,5 @@
 FROM ubuntu:16.04
 
-TAG latest
-
 ARG DONATE_LEVEL=0
 ARG GIT_TAG
 
